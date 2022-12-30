@@ -1,3 +1,6 @@
 /OpenCVEnv
 .ipynb_checkpoints
 *.csv
+*.jpg
+*.jpeg
+*.png
